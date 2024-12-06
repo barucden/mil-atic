@@ -1,6 +1,6 @@
 # Multiple Instance Learning: Attention to Instance Classification
 
-This repository contains code for the paper *Multiple Instance Learnig:
+This repository contains code for the paper *Multiple Instance Learning:
 Attention to Instance Classification* from SPIE 2025 Medical Imaging.
 
 ## Description
