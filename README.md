@@ -26,5 +26,13 @@ The code was developed using torchvision/0.13.0 and PyTorch-Lightning/1.6.5.
 
 If you use our work in your research, please cite our paper:
 
-    @inproceedings{todo
+    @inproceedings{barucic2025,
+      author={Denis Baručić and Jan Kybic},
+      title={Multiple instance learning: attention to instance classification},
+      volume={13406},
+      booktitle={Medical Imaging 2025: Image Processing},
+      publisher={SPIE},
+      pages={134060V},
+      year={2025},
+      doi={10.1117/12.3045059}
     }
